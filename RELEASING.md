@@ -6,7 +6,7 @@ Make sure that all issues assigned to the current milestone have been closed and
 
 ## Prerequisites
 
-* You must have commit rights on this repository.
+* You must have commit rights on this repository. just check!
 * You must have deploy rights to [Sonatype's SS Repository Hosting (OSSRH)](https://central.sonatype.org/publish/publish-guide/)
 
 ## Release via GitHub Action
